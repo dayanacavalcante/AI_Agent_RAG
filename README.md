@@ -1,6 +1,6 @@
-# 🚀 Creating an AI RAG Agent in n8n
+# 🚀 Creating an RAG AI Agent in n8n
 
-This repository contains a detailed tutorial for building an AI RAG (Retrieval-Augmented Generation) Agent in n8n, capable of answering questions based on documents stored in a vector database.
+This repository contains a detailed tutorial for building an RAG (Retrieval-Augmented Generation) AI Agent in n8n, capable of answering questions based on documents stored in a vector database.
 
 ![AI Agent](Images/AI_Agent.jpg)
 
