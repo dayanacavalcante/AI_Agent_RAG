@@ -85,7 +85,7 @@ The test documents contain fictional questions and answers for a virtual Custome
   - **Data Transformation**: Extract from text file  
 - Ensure no duplicates in **Supabase**  
   - Delete previous records in **Supabase Vector Store**  
-  - Set a filter to prevent duplication:  
+  - Add the condition `operation: delete / filters (string):`
     ```sql
     metadata->>file_id=like.*{{$json.id}}*
     ```
